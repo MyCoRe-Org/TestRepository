@@ -7,3 +7,5 @@ https://mycore.atlassian.net/
 
 ### For integration tests we use bamboo
 https://bamboo.mycore.de/
+
+Get in contact at http://www.mycore.de and have fun :-)
