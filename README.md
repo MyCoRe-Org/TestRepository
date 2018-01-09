@@ -10,4 +10,5 @@ https://mycore.atlassian.net/
 ### For integration tests we use bamboo
 https://bamboo.mycore.de/
 
-Get in contact at http://www.mycore.org and have fun :-)
+Get in contact with the MyCoRe community at http://www.mycore.org and have fun :-)
+
